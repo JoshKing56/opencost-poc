@@ -22,10 +22,18 @@ opencost:
       EMIT_KSM_V1_METRICS: "false"
       EMIT_KSM_V1_METRICS_ONLY: "true"
       LOG_LEVEL: warn #error
+    extraVolumeMounts:
+      - mountPath: /var/secrets
+        name: service-key-secret
+
   prometheus:
     internal:
       enabled: true
-      serviceName: kube-prometheus-stack-prometheus
+      serviceName: prometheus-server
       namespaceName: prometheus-system
   ui:
     enabled: true
+extraVolumes:
+  - name: service-key-secret
+    secret:
+      secretName: azure-service-key
