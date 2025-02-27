@@ -1,0 +1,282 @@
+[
+    {
+        "app_name": "WhyPlus",
+        "app_id": 854,
+        "business_criticality": "high",
+        "business_owner": "Jennifer Turner",
+        "technical_owner": "Tracy Bauer",
+        "server_id": "eusdev25",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-WhyPlus"
+    },
+    {
+        "app_name": "QuicklyTools",
+        "app_id": 269,
+        "business_criticality": "low",
+        "business_owner": "Mandy Martinez",
+        "technical_owner": "Amanda Maddox",
+        "server_id": "eusdev29",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-QuicklyTools"
+    },
+    {
+        "app_name": "ThesePlus",
+        "app_id": 684,
+        "business_criticality": "high",
+        "business_owner": "David Hood",
+        "technical_owner": "Karen Flores",
+        "server_id": "eusdev28",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-ThesePlus"
+    },
+    {
+        "app_name": "BedFlow",
+        "app_id": 692,
+        "business_criticality": "mid",
+        "business_owner": "Cassidy Bolton",
+        "technical_owner": "Matthew Patterson",
+        "server_id": "eusdev39",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-BedFlow"
+    },
+    {
+        "app_name": "FromTools",
+        "app_id": 282,
+        "business_criticality": "high",
+        "business_owner": "Danielle Thompson",
+        "technical_owner": "Annette Santos",
+        "server_id": "eusdev22",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-FromTools"
+    },
+    {
+        "app_name": "TreePlus",
+        "app_id": 106,
+        "business_criticality": "high",
+        "business_owner": "David Page",
+        "technical_owner": "Angel Ramos",
+        "server_id": "eusdev15",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-TreePlus"
+    },
+    {
+        "app_name": "TeamCore",
+        "app_id": 282,
+        "business_criticality": "low",
+        "business_owner": "Vincent Lewis",
+        "technical_owner": "Jeffrey Allen",
+        "server_id": "eusdev12",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-TeamCore"
+    },
+    {
+        "app_name": "ReachHub",
+        "app_id": 289,
+        "business_criticality": "mid",
+        "business_owner": "Alejandro Ramirez",
+        "technical_owner": "Mark Davis",
+        "server_id": "eusdev23",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-ReachHub"
+    },
+    {
+        "app_name": "DemocraticLink",
+        "app_id": 312,
+        "business_criticality": "mid",
+        "business_owner": "Jennifer Martinez",
+        "technical_owner": "Mrs. Kristin Peterson DVM",
+        "server_id": "eusdev38",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-DemocraticLink"
+    },
+    {
+        "app_name": "StationConnect",
+        "app_id": 504,
+        "business_criticality": "low",
+        "business_owner": "Hunter Lee",
+        "technical_owner": "William Kennedy",
+        "server_id": "eusdev38",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-StationConnect"
+    },
+    {
+        "app_name": "ChangeFlow",
+        "app_id": 620,
+        "business_criticality": "high",
+        "business_owner": "Nicole Sanchez",
+        "technical_owner": "Ricky Williams",
+        "server_id": "eusdev11",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-ChangeFlow"
+    },
+    {
+        "app_name": "SellHub",
+        "app_id": 713,
+        "business_criticality": "high",
+        "business_owner": "Theresa Martin",
+        "technical_owner": "Brandon Mcbride Jr.",
+        "server_id": "eusdev39",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-SellHub"
+    },
+    {
+        "app_name": "LikeStore",
+        "app_id": 833,
+        "business_criticality": "high",
+        "business_owner": "Barbara Knight",
+        "technical_owner": "Sarah Edwards",
+        "server_id": "eusdev11",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-LikeStore"
+    },
+    {
+        "app_name": "SeeTools",
+        "app_id": 983,
+        "business_criticality": "high",
+        "business_owner": "Hailey Diaz",
+        "technical_owner": "Mr. Stephen Compton MD",
+        "server_id": "eusdev6",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-SeeTools"
+    },
+    {
+        "app_name": "HappenFlow",
+        "app_id": 860,
+        "business_criticality": "low",
+        "business_owner": "John Johnson",
+        "technical_owner": "Melissa Brown",
+        "server_id": "eusdev18",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-HappenFlow"
+    },
+    {
+        "app_name": "FullWorks",
+        "app_id": 67,
+        "business_criticality": "high",
+        "business_owner": "Jason Gonzalez",
+        "technical_owner": "Jade Casey",
+        "server_id": "eusdev14",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-FullWorks"
+    },
+    {
+        "app_name": "SupportConnect",
+        "app_id": 698,
+        "business_criticality": "mid",
+        "business_owner": "Brittany Phillips",
+        "technical_owner": "Joseph Hughes",
+        "server_id": "eusdev38",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-SupportConnect"
+    },
+    {
+        "app_name": "RealityPlus",
+        "app_id": 527,
+        "business_criticality": "high",
+        "business_owner": "Aaron Sexton",
+        "technical_owner": "Susan Rowland",
+        "server_id": "eusdev37",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-RealityPlus"
+    },
+    {
+        "app_name": "CenturyWorks",
+        "app_id": 279,
+        "business_criticality": "mid",
+        "business_owner": "Richard Smith",
+        "technical_owner": "Laurie Wright",
+        "server_id": "eusdev39",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-CenturyWorks"
+    },
+    {
+        "app_name": "PastConnect",
+        "app_id": 871,
+        "business_criticality": "high",
+        "business_owner": "Todd Leach",
+        "technical_owner": "Shane Sanders",
+        "server_id": "eusdev1",
+        "environments": [
+            "dev",
+            "qa",
+            "prod"
+        ],
+        "clusterId": "kc-PastConnect"
+    }
+]

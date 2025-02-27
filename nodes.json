@@ -1,0 +1,1934 @@
+[
+    {
+        "pod": "2c:be:df:6b:7e:5d",
+        "namespace": "though",
+        "node": "14:81:69:a8:ec:0b",
+        "clusterId": "kc-WhyPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "participant",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 22.215455,
+        "egressBytesPerSecond": 156.066239,
+        "allocation": {
+            "cpuCores": 0.48564,
+            "ramBytes": 819612571
+        },
+        "requests": {
+            "cpuCores": 0.91826,
+            "ramBytes": 681025356
+        },
+        "usage": {
+            "cpuCores": 0.099411,
+            "ramBytes": 29077282
+        },
+        "monthlySavings": 2.054532
+    },
+    {
+        "pod": "90:99:69:75:17:3d",
+        "namespace": "program",
+        "node": "a2:c0:a2:42:2e:b9",
+        "clusterId": "kc-WhyPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "ten",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 37.932277,
+        "egressBytesPerSecond": 125.618194,
+        "allocation": {
+            "cpuCores": 0.250098,
+            "ramBytes": 422298625
+        },
+        "requests": {
+            "cpuCores": 0.610045,
+            "ramBytes": 636589745
+        },
+        "usage": {
+            "cpuCores": 0.036462,
+            "ramBytes": 21369941
+        },
+        "monthlySavings": 0.820015
+    },
+    {
+        "pod": "02:77:3b:ae:0b:9d",
+        "namespace": "return",
+        "node": "d4:87:b3:ca:5b:6d",
+        "clusterId": "kc-WhyPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "short",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 166.106663,
+        "egressBytesPerSecond": 25.827593,
+        "allocation": {
+            "cpuCores": 0.039304,
+            "ramBytes": 321431873
+        },
+        "requests": {
+            "cpuCores": 0.428891,
+            "ramBytes": 801983985
+        },
+        "usage": {
+            "cpuCores": 0.000427,
+            "ramBytes": 67762251
+        },
+        "monthlySavings": 4.368014
+    },
+    {
+        "pod": "02:7a:78:d1:57:61",
+        "namespace": "statement",
+        "node": "76:e0:81:6b:01:21",
+        "clusterId": "kc-WhyPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "while",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 54.250123,
+        "egressBytesPerSecond": 160.81843,
+        "allocation": {
+            "cpuCores": 0.288548,
+            "ramBytes": 482107228
+        },
+        "requests": {
+            "cpuCores": 0.411601,
+            "ramBytes": 192270571
+        },
+        "usage": {
+            "cpuCores": 0.082003,
+            "ramBytes": 55176326
+        },
+        "monthlySavings": 6.162478
+    },
+    {
+        "pod": "84:d8:7e:9b:92:72",
+        "namespace": "deep",
+        "node": "a0:e3:8a:9e:2e:b8",
+        "clusterId": "kc-QuicklyTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "pull",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 183.523463,
+        "egressBytesPerSecond": 145.001139,
+        "allocation": {
+            "cpuCores": 0.31403,
+            "ramBytes": 152160736
+        },
+        "requests": {
+            "cpuCores": 0.096706,
+            "ramBytes": 298215329
+        },
+        "usage": {
+            "cpuCores": 0.054439,
+            "ramBytes": 62394189
+        },
+        "monthlySavings": 6.038965
+    },
+    {
+        "pod": "d0:7b:95:9f:16:9a",
+        "namespace": "nation",
+        "node": "da:da:1e:b9:e6:39",
+        "clusterId": "kc-QuicklyTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "degree",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 103.539022,
+        "egressBytesPerSecond": 118.508598,
+        "allocation": {
+            "cpuCores": 0.956445,
+            "ramBytes": 271095212
+        },
+        "requests": {
+            "cpuCores": 0.97485,
+            "ramBytes": 724645224
+        },
+        "usage": {
+            "cpuCores": 0.041636,
+            "ramBytes": 14760020
+        },
+        "monthlySavings": 3.370107
+    },
+    {
+        "pod": "38:d7:d0:41:5a:6c",
+        "namespace": "product",
+        "node": "94:19:80:42:49:21",
+        "clusterId": "kc-QuicklyTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "hour",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 92.988394,
+        "egressBytesPerSecond": 155.803577,
+        "allocation": {
+            "cpuCores": 0.61624,
+            "ramBytes": 602141310
+        },
+        "requests": {
+            "cpuCores": 0.91639,
+            "ramBytes": 199421078
+        },
+        "usage": {
+            "cpuCores": 0.02143,
+            "ramBytes": 19223750
+        },
+        "monthlySavings": 3.373855
+    },
+    {
+        "pod": "34:cc:07:7b:45:ba",
+        "namespace": "often",
+        "node": "92:6a:48:47:ff:ed",
+        "clusterId": "kc-QuicklyTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "system",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 138.616263,
+        "egressBytesPerSecond": 42.594107,
+        "allocation": {
+            "cpuCores": 0.26884,
+            "ramBytes": 963427101
+        },
+        "requests": {
+            "cpuCores": 0.272528,
+            "ramBytes": 416560123
+        },
+        "usage": {
+            "cpuCores": 0.073889,
+            "ramBytes": 85169868
+        },
+        "monthlySavings": 3.383336
+    },
+    {
+        "pod": "3a:07:27:8f:6a:b3",
+        "namespace": "more",
+        "node": "f6:e7:b5:c3:e4:b2",
+        "clusterId": "kc-ThesePlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "especially",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 99.554903,
+        "egressBytesPerSecond": 47.778508,
+        "allocation": {
+            "cpuCores": 0.178957,
+            "ramBytes": 307128738
+        },
+        "requests": {
+            "cpuCores": 0.39637,
+            "ramBytes": 484635753
+        },
+        "usage": {
+            "cpuCores": 0.021318,
+            "ramBytes": 59746462
+        },
+        "monthlySavings": 1.77261
+    },
+    {
+        "pod": "bc:ba:69:ff:6b:21",
+        "namespace": "sense",
+        "node": "d6:60:0e:33:b7:a6",
+        "clusterId": "kc-ThesePlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "in",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 186.552431,
+        "egressBytesPerSecond": 73.239583,
+        "allocation": {
+            "cpuCores": 0.948247,
+            "ramBytes": 773439434
+        },
+        "requests": {
+            "cpuCores": 0.806916,
+            "ramBytes": 932330360
+        },
+        "usage": {
+            "cpuCores": 0.020338,
+            "ramBytes": 10365079
+        },
+        "monthlySavings": 5.850307
+    },
+    {
+        "pod": "02:6f:11:cd:87:6e",
+        "namespace": "form",
+        "node": "b0:f9:97:21:4c:00",
+        "clusterId": "kc-ThesePlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "hard",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 38.503881,
+        "egressBytesPerSecond": 115.936795,
+        "allocation": {
+            "cpuCores": 0.245117,
+            "ramBytes": 626942256
+        },
+        "requests": {
+            "cpuCores": 0.165418,
+            "ramBytes": 404887332
+        },
+        "usage": {
+            "cpuCores": 0.016638,
+            "ramBytes": 32019098
+        },
+        "monthlySavings": 7.262303
+    },
+    {
+        "pod": "d2:5c:5c:3d:c7:81",
+        "namespace": "might",
+        "node": "34:34:0d:f6:9d:d2",
+        "clusterId": "kc-ThesePlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "interview",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 36.129752,
+        "egressBytesPerSecond": 62.125138,
+        "allocation": {
+            "cpuCores": 0.992001,
+            "ramBytes": 141752686
+        },
+        "requests": {
+            "cpuCores": 0.996754,
+            "ramBytes": 141586754
+        },
+        "usage": {
+            "cpuCores": 0.076279,
+            "ramBytes": 21656785
+        },
+        "monthlySavings": 7.787094
+    },
+    {
+        "pod": "bc:72:2f:90:ac:35",
+        "namespace": "make",
+        "node": "12:1c:bc:26:03:01",
+        "clusterId": "kc-BedFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "line",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 105.996939,
+        "egressBytesPerSecond": 55.345274,
+        "allocation": {
+            "cpuCores": 0.467151,
+            "ramBytes": 306148356
+        },
+        "requests": {
+            "cpuCores": 0.51045,
+            "ramBytes": 309419601
+        },
+        "usage": {
+            "cpuCores": 0.097424,
+            "ramBytes": 43222277
+        },
+        "monthlySavings": 8.59934
+    },
+    {
+        "pod": "06:64:e2:83:4d:a6",
+        "namespace": "least",
+        "node": "16:27:9c:82:88:eb",
+        "clusterId": "kc-BedFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "thought",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 152.509431,
+        "egressBytesPerSecond": 121.646579,
+        "allocation": {
+            "cpuCores": 0.038391,
+            "ramBytes": 521804254
+        },
+        "requests": {
+            "cpuCores": 0.040112,
+            "ramBytes": 700495668
+        },
+        "usage": {
+            "cpuCores": 0.023453,
+            "ramBytes": 95712537
+        },
+        "monthlySavings": 7.577285
+    },
+    {
+        "pod": "00:41:35:08:fa:44",
+        "namespace": "any",
+        "node": "e2:de:be:17:77:f6",
+        "clusterId": "kc-FromTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "more",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 156.012756,
+        "egressBytesPerSecond": 34.000022,
+        "allocation": {
+            "cpuCores": 0.115027,
+            "ramBytes": 668765100
+        },
+        "requests": {
+            "cpuCores": 0.541271,
+            "ramBytes": 553103647
+        },
+        "usage": {
+            "cpuCores": 0.042592,
+            "ramBytes": 83963872
+        },
+        "monthlySavings": 7.363717
+    },
+    {
+        "pod": "60:ac:91:43:8d:60",
+        "namespace": "bed",
+        "node": "04:2a:20:06:3b:28",
+        "clusterId": "kc-FromTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "quality",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 158.99205,
+        "egressBytesPerSecond": 132.788373,
+        "allocation": {
+            "cpuCores": 0.997058,
+            "ramBytes": 875360123
+        },
+        "requests": {
+            "cpuCores": 0.420001,
+            "ramBytes": 419794832
+        },
+        "usage": {
+            "cpuCores": 0.044102,
+            "ramBytes": 35053343
+        },
+        "monthlySavings": 0.226405
+    },
+    {
+        "pod": "26:69:75:10:75:1e",
+        "namespace": "speak",
+        "node": "96:cd:94:13:4a:68",
+        "clusterId": "kc-FromTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "lose",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 163.175858,
+        "egressBytesPerSecond": 94.453172,
+        "allocation": {
+            "cpuCores": 0.237103,
+            "ramBytes": 457814436
+        },
+        "requests": {
+            "cpuCores": 0.213056,
+            "ramBytes": 239065139
+        },
+        "usage": {
+            "cpuCores": 0.014985,
+            "ramBytes": 14038431
+        },
+        "monthlySavings": 6.06522
+    },
+    {
+        "pod": "3a:66:96:00:b1:24",
+        "namespace": "hot",
+        "node": "f6:4e:17:b3:00:55",
+        "clusterId": "kc-TreePlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "some",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 117.195062,
+        "egressBytesPerSecond": 68.785526,
+        "allocation": {
+            "cpuCores": 0.356471,
+            "ramBytes": 153807277
+        },
+        "requests": {
+            "cpuCores": 0.640861,
+            "ramBytes": 580969886
+        },
+        "usage": {
+            "cpuCores": 0.061321,
+            "ramBytes": 66106322
+        },
+        "monthlySavings": 4.763338
+    },
+    {
+        "pod": "02:53:25:ca:3c:05",
+        "namespace": "expect",
+        "node": "a6:59:46:1a:15:ff",
+        "clusterId": "kc-TeamCore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "respond",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 136.277024,
+        "egressBytesPerSecond": 31.486647,
+        "allocation": {
+            "cpuCores": 0.87617,
+            "ramBytes": 398496852
+        },
+        "requests": {
+            "cpuCores": 0.216073,
+            "ramBytes": 678925497
+        },
+        "usage": {
+            "cpuCores": 0.055804,
+            "ramBytes": 54435543
+        },
+        "monthlySavings": 5.36325
+    },
+    {
+        "pod": "78:9f:d7:96:ed:af",
+        "namespace": "leader",
+        "node": "74:f5:a1:c4:6a:38",
+        "clusterId": "kc-TeamCore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "seat",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 187.959657,
+        "egressBytesPerSecond": 145.011751,
+        "allocation": {
+            "cpuCores": 0.912609,
+            "ramBytes": 819056015
+        },
+        "requests": {
+            "cpuCores": 0.702183,
+            "ramBytes": 132395826
+        },
+        "usage": {
+            "cpuCores": 0.042991,
+            "ramBytes": 32221882
+        },
+        "monthlySavings": 5.936619
+    },
+    {
+        "pod": "ac:3e:e3:45:53:c5",
+        "namespace": "free",
+        "node": "0e:ac:cb:64:76:cc",
+        "clusterId": "kc-TeamCore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "think",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 21.599563,
+        "egressBytesPerSecond": 100.876842,
+        "allocation": {
+            "cpuCores": 0.604004,
+            "ramBytes": 232386853
+        },
+        "requests": {
+            "cpuCores": 0.158483,
+            "ramBytes": 757482310
+        },
+        "usage": {
+            "cpuCores": 0.010902,
+            "ramBytes": 93237021
+        },
+        "monthlySavings": 3.882716
+    },
+    {
+        "pod": "92:16:98:ad:50:2c",
+        "namespace": "behavior",
+        "node": "46:c3:26:db:d1:4e",
+        "clusterId": "kc-TeamCore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "see",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 155.851334,
+        "egressBytesPerSecond": 168.448442,
+        "allocation": {
+            "cpuCores": 0.29721,
+            "ramBytes": 664576334
+        },
+        "requests": {
+            "cpuCores": 0.988274,
+            "ramBytes": 631532346
+        },
+        "usage": {
+            "cpuCores": 0.010068,
+            "ramBytes": 89669132
+        },
+        "monthlySavings": 0.390209
+    },
+    {
+        "pod": "0a:e5:cc:39:a8:8d",
+        "namespace": "catch",
+        "node": "5e:17:1f:6b:a7:dc",
+        "clusterId": "kc-ReachHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "leave",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 62.021203,
+        "egressBytesPerSecond": 162.920454,
+        "allocation": {
+            "cpuCores": 0.221041,
+            "ramBytes": 685013459
+        },
+        "requests": {
+            "cpuCores": 0.657104,
+            "ramBytes": 590318490
+        },
+        "usage": {
+            "cpuCores": 0.030618,
+            "ramBytes": 77576349
+        },
+        "monthlySavings": 5.054925
+    },
+    {
+        "pod": "f6:fa:c3:b3:b1:89",
+        "namespace": "serve",
+        "node": "d2:7f:1c:b5:70:e5",
+        "clusterId": "kc-ReachHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "score",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 142.349335,
+        "egressBytesPerSecond": 59.411375,
+        "allocation": {
+            "cpuCores": 0.152266,
+            "ramBytes": 214104882
+        },
+        "requests": {
+            "cpuCores": 0.604894,
+            "ramBytes": 290979906
+        },
+        "usage": {
+            "cpuCores": 0.023959,
+            "ramBytes": 50383658
+        },
+        "monthlySavings": 0.684343
+    },
+    {
+        "pod": "6c:2d:39:9d:9b:43",
+        "namespace": "director",
+        "node": "da:1e:ca:89:11:02",
+        "clusterId": "kc-ReachHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "enough",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 48.138022,
+        "egressBytesPerSecond": 120.739901,
+        "allocation": {
+            "cpuCores": 0.912346,
+            "ramBytes": 639860831
+        },
+        "requests": {
+            "cpuCores": 0.455486,
+            "ramBytes": 888727306
+        },
+        "usage": {
+            "cpuCores": 0.023931,
+            "ramBytes": 85721133
+        },
+        "monthlySavings": 6.407931
+    },
+    {
+        "pod": "f0:76:e0:02:81:dd",
+        "namespace": "weight",
+        "node": "f2:2d:62:98:f0:0a",
+        "clusterId": "kc-ReachHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "color",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 82.525352,
+        "egressBytesPerSecond": 152.811666,
+        "allocation": {
+            "cpuCores": 0.910522,
+            "ramBytes": 911928632
+        },
+        "requests": {
+            "cpuCores": 0.211876,
+            "ramBytes": 230207679
+        },
+        "usage": {
+            "cpuCores": 0.012302,
+            "ramBytes": 36175329
+        },
+        "monthlySavings": 7.378115
+    },
+    {
+        "pod": "2a:04:f3:b8:e6:5f",
+        "namespace": "more",
+        "node": "ee:5c:8c:86:5d:14",
+        "clusterId": "kc-ReachHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "figure",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 154.779263,
+        "egressBytesPerSecond": 197.79049,
+        "allocation": {
+            "cpuCores": 0.568546,
+            "ramBytes": 850202482
+        },
+        "requests": {
+            "cpuCores": 0.709334,
+            "ramBytes": 545400252
+        },
+        "usage": {
+            "cpuCores": 0.067174,
+            "ramBytes": 67646349
+        },
+        "monthlySavings": 3.415436
+    },
+    {
+        "pod": "64:43:ef:29:f7:a0",
+        "namespace": "similar",
+        "node": "6e:ac:99:b4:36:80",
+        "clusterId": "kc-DemocraticLink",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "marriage",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 55.050777,
+        "egressBytesPerSecond": 40.955735,
+        "allocation": {
+            "cpuCores": 0.09052,
+            "ramBytes": 953302335
+        },
+        "requests": {
+            "cpuCores": 0.964384,
+            "ramBytes": 521952647
+        },
+        "usage": {
+            "cpuCores": 0.088778,
+            "ramBytes": 75451702
+        },
+        "monthlySavings": 1.664696
+    },
+    {
+        "pod": "7a:27:51:62:12:32",
+        "namespace": "everyone",
+        "node": "8a:5d:b4:13:f5:4c",
+        "clusterId": "kc-StationConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "not",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 32.618434,
+        "egressBytesPerSecond": 76.673907,
+        "allocation": {
+            "cpuCores": 0.928423,
+            "ramBytes": 649410673
+        },
+        "requests": {
+            "cpuCores": 0.953767,
+            "ramBytes": 272569372
+        },
+        "usage": {
+            "cpuCores": 0.01727,
+            "ramBytes": 45733361
+        },
+        "monthlySavings": 6.646108
+    },
+    {
+        "pod": "d4:ce:85:1f:da:4a",
+        "namespace": "clearly",
+        "node": "86:fc:fa:57:d8:34",
+        "clusterId": "kc-StationConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "list",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 55.989024,
+        "egressBytesPerSecond": 190.943221,
+        "allocation": {
+            "cpuCores": 0.964134,
+            "ramBytes": 690546789
+        },
+        "requests": {
+            "cpuCores": 0.411803,
+            "ramBytes": 723920916
+        },
+        "usage": {
+            "cpuCores": 0.066214,
+            "ramBytes": 94202606
+        },
+        "monthlySavings": 9.865572
+    },
+    {
+        "pod": "90:f4:95:4c:3d:04",
+        "namespace": "seem",
+        "node": "22:62:f7:d3:a0:19",
+        "clusterId": "kc-StationConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "fear",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 96.022507,
+        "egressBytesPerSecond": 120.192231,
+        "allocation": {
+            "cpuCores": 0.946138,
+            "ramBytes": 379081477
+        },
+        "requests": {
+            "cpuCores": 0.147735,
+            "ramBytes": 459945559
+        },
+        "usage": {
+            "cpuCores": 0.078052,
+            "ramBytes": 98891425
+        },
+        "monthlySavings": 4.144831
+    },
+    {
+        "pod": "3e:08:ad:f9:9a:2e",
+        "namespace": "throw",
+        "node": "78:4b:a5:fd:a3:46",
+        "clusterId": "kc-StationConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "executive",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 104.632676,
+        "egressBytesPerSecond": 0.991731,
+        "allocation": {
+            "cpuCores": 0.620188,
+            "ramBytes": 546820191
+        },
+        "requests": {
+            "cpuCores": 0.802451,
+            "ramBytes": 483847506
+        },
+        "usage": {
+            "cpuCores": 0.005378,
+            "ramBytes": 76160685
+        },
+        "monthlySavings": 2.497562
+    },
+    {
+        "pod": "fc:19:ba:bd:26:d6",
+        "namespace": "sometimes",
+        "node": "fc:98:1f:0c:45:73",
+        "clusterId": "kc-StationConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "white",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 12.251502,
+        "egressBytesPerSecond": 10.101855,
+        "allocation": {
+            "cpuCores": 0.999517,
+            "ramBytes": 166349965
+        },
+        "requests": {
+            "cpuCores": 0.42726,
+            "ramBytes": 320827995
+        },
+        "usage": {
+            "cpuCores": 0.082989,
+            "ramBytes": 12970950
+        },
+        "monthlySavings": 6.313619
+    },
+    {
+        "pod": "9a:1a:a5:05:88:e4",
+        "namespace": "few",
+        "node": "76:ad:a0:ba:e3:1b",
+        "clusterId": "kc-ChangeFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "present",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 35.257551,
+        "egressBytesPerSecond": 12.54887,
+        "allocation": {
+            "cpuCores": 0.817823,
+            "ramBytes": 227950491
+        },
+        "requests": {
+            "cpuCores": 0.826334,
+            "ramBytes": 185621917
+        },
+        "usage": {
+            "cpuCores": 0.058772,
+            "ramBytes": 17370682
+        },
+        "monthlySavings": 9.642054
+    },
+    {
+        "pod": "a2:74:b2:da:7c:2f",
+        "namespace": "yes",
+        "node": "fc:0c:94:1f:b7:93",
+        "clusterId": "kc-ChangeFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "direction",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 7.745052,
+        "egressBytesPerSecond": 103.890389,
+        "allocation": {
+            "cpuCores": 0.983311,
+            "ramBytes": 208336413
+        },
+        "requests": {
+            "cpuCores": 0.581755,
+            "ramBytes": 343007960
+        },
+        "usage": {
+            "cpuCores": 0.049667,
+            "ramBytes": 80389536
+        },
+        "monthlySavings": 1.949138
+    },
+    {
+        "pod": "0a:f4:08:69:6c:41",
+        "namespace": "human",
+        "node": "2e:dd:4b:4e:09:7d",
+        "clusterId": "kc-ChangeFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "again",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 77.713639,
+        "egressBytesPerSecond": 54.439263,
+        "allocation": {
+            "cpuCores": 0.711122,
+            "ramBytes": 439835225
+        },
+        "requests": {
+            "cpuCores": 0.195105,
+            "ramBytes": 946442146
+        },
+        "usage": {
+            "cpuCores": 0.075783,
+            "ramBytes": 59513194
+        },
+        "monthlySavings": 9.420945
+    },
+    {
+        "pod": "56:bd:33:6b:3d:b9",
+        "namespace": "many",
+        "node": "ba:b6:4b:69:85:02",
+        "clusterId": "kc-SellHub",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "money",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 2.085566,
+        "egressBytesPerSecond": 162.621955,
+        "allocation": {
+            "cpuCores": 0.608403,
+            "ramBytes": 212585040
+        },
+        "requests": {
+            "cpuCores": 0.98549,
+            "ramBytes": 136793341
+        },
+        "usage": {
+            "cpuCores": 0.030645,
+            "ramBytes": 76368457
+        },
+        "monthlySavings": 0.868719
+    },
+    {
+        "pod": "e0:03:4f:6b:74:4d",
+        "namespace": "collection",
+        "node": "7c:f1:e6:ad:72:48",
+        "clusterId": "kc-LikeStore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "leave",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 188.004894,
+        "egressBytesPerSecond": 54.159264,
+        "allocation": {
+            "cpuCores": 0.423311,
+            "ramBytes": 756269390
+        },
+        "requests": {
+            "cpuCores": 0.28916,
+            "ramBytes": 242821260
+        },
+        "usage": {
+            "cpuCores": 0.086547,
+            "ramBytes": 56950385
+        },
+        "monthlySavings": 8.13539
+    },
+    {
+        "pod": "aa:3d:43:80:f6:81",
+        "namespace": "risk",
+        "node": "90:ca:1f:fb:36:9a",
+        "clusterId": "kc-LikeStore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "road",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 68.772115,
+        "egressBytesPerSecond": 8.700872,
+        "allocation": {
+            "cpuCores": 0.664341,
+            "ramBytes": 913781353
+        },
+        "requests": {
+            "cpuCores": 0.628789,
+            "ramBytes": 143731758
+        },
+        "usage": {
+            "cpuCores": 0.035859,
+            "ramBytes": 92970181
+        },
+        "monthlySavings": 6.533635
+    },
+    {
+        "pod": "e8:31:2a:a1:9b:6b",
+        "namespace": "market",
+        "node": "34:5c:6a:b8:06:b5",
+        "clusterId": "kc-LikeStore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "ok",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 129.558335,
+        "egressBytesPerSecond": 117.507265,
+        "allocation": {
+            "cpuCores": 0.783092,
+            "ramBytes": 188515256
+        },
+        "requests": {
+            "cpuCores": 0.334996,
+            "ramBytes": 380641420
+        },
+        "usage": {
+            "cpuCores": 0.09915,
+            "ramBytes": 63760074
+        },
+        "monthlySavings": 1.644312
+    },
+    {
+        "pod": "32:40:40:2b:35:b7",
+        "namespace": "relate",
+        "node": "c0:76:26:28:e4:f0",
+        "clusterId": "kc-LikeStore",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "paper",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 37.049279,
+        "egressBytesPerSecond": 57.50861,
+        "allocation": {
+            "cpuCores": 0.82774,
+            "ramBytes": 427992638
+        },
+        "requests": {
+            "cpuCores": 0.107698,
+            "ramBytes": 431161617
+        },
+        "usage": {
+            "cpuCores": 0.065572,
+            "ramBytes": 13165394
+        },
+        "monthlySavings": 9.552008
+    },
+    {
+        "pod": "a8:f1:e7:a3:f1:cb",
+        "namespace": "red",
+        "node": "74:c6:64:cc:09:29",
+        "clusterId": "kc-SeeTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "begin",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 4.211107,
+        "egressBytesPerSecond": 17.048844,
+        "allocation": {
+            "cpuCores": 0.258262,
+            "ramBytes": 247130609
+        },
+        "requests": {
+            "cpuCores": 0.987064,
+            "ramBytes": 298888511
+        },
+        "usage": {
+            "cpuCores": 0.048882,
+            "ramBytes": 30865717
+        },
+        "monthlySavings": 5.773512
+    },
+    {
+        "pod": "26:68:9e:e6:0c:41",
+        "namespace": "positive",
+        "node": "88:7a:5f:a6:04:dd",
+        "clusterId": "kc-SeeTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "economic",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 164.410206,
+        "egressBytesPerSecond": 159.117943,
+        "allocation": {
+            "cpuCores": 0.914218,
+            "ramBytes": 876087863
+        },
+        "requests": {
+            "cpuCores": 0.296895,
+            "ramBytes": 394744176
+        },
+        "usage": {
+            "cpuCores": 0.092367,
+            "ramBytes": 22019219
+        },
+        "monthlySavings": 7.896854
+    },
+    {
+        "pod": "9e:65:31:37:90:d7",
+        "namespace": "lot",
+        "node": "a6:59:6b:09:7d:d7",
+        "clusterId": "kc-SeeTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "eight",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 40.969005,
+        "egressBytesPerSecond": 38.798838,
+        "allocation": {
+            "cpuCores": 0.017035,
+            "ramBytes": 941339624
+        },
+        "requests": {
+            "cpuCores": 0.134518,
+            "ramBytes": 243319088
+        },
+        "usage": {
+            "cpuCores": 0.007415,
+            "ramBytes": 53322756
+        },
+        "monthlySavings": 9.791062
+    },
+    {
+        "pod": "e4:4f:68:ec:1b:c7",
+        "namespace": "glass",
+        "node": "3c:ba:2c:6e:37:ef",
+        "clusterId": "kc-SeeTools",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "realize",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 2.29093,
+        "egressBytesPerSecond": 173.365278,
+        "allocation": {
+            "cpuCores": 0.151296,
+            "ramBytes": 733675775
+        },
+        "requests": {
+            "cpuCores": 0.508269,
+            "ramBytes": 289470382
+        },
+        "usage": {
+            "cpuCores": 0.022657,
+            "ramBytes": 15871229
+        },
+        "monthlySavings": 1.920642
+    },
+    {
+        "pod": "a4:c2:42:e7:70:df",
+        "namespace": "foot",
+        "node": "cc:bf:c7:ce:aa:83",
+        "clusterId": "kc-HappenFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "anything",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 95.246934,
+        "egressBytesPerSecond": 95.667557,
+        "allocation": {
+            "cpuCores": 0.703098,
+            "ramBytes": 867881832
+        },
+        "requests": {
+            "cpuCores": 0.103158,
+            "ramBytes": 782938288
+        },
+        "usage": {
+            "cpuCores": 0.078739,
+            "ramBytes": 23121956
+        },
+        "monthlySavings": 6.652392
+    },
+    {
+        "pod": "1c:31:67:a9:ff:ed",
+        "namespace": "performance",
+        "node": "bc:c9:ba:ba:46:36",
+        "clusterId": "kc-HappenFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "occur",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 61.893575,
+        "egressBytesPerSecond": 9.155309,
+        "allocation": {
+            "cpuCores": 0.052214,
+            "ramBytes": 496152570
+        },
+        "requests": {
+            "cpuCores": 0.233115,
+            "ramBytes": 358807409
+        },
+        "usage": {
+            "cpuCores": 0.079143,
+            "ramBytes": 29233933
+        },
+        "monthlySavings": 8.089621
+    },
+    {
+        "pod": "62:be:4b:20:d3:a7",
+        "namespace": "behavior",
+        "node": "a0:05:06:50:df:7f",
+        "clusterId": "kc-HappenFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "nothing",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 113.151855,
+        "egressBytesPerSecond": 181.31668,
+        "allocation": {
+            "cpuCores": 0.990132,
+            "ramBytes": 651651507
+        },
+        "requests": {
+            "cpuCores": 0.789425,
+            "ramBytes": 957181065
+        },
+        "usage": {
+            "cpuCores": 0.04553,
+            "ramBytes": 49454232
+        },
+        "monthlySavings": 8.325229
+    },
+    {
+        "pod": "4c:c2:cd:72:fc:c4",
+        "namespace": "according",
+        "node": "f2:ee:5d:f6:df:37",
+        "clusterId": "kc-HappenFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "allow",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 78.338311,
+        "egressBytesPerSecond": 156.338687,
+        "allocation": {
+            "cpuCores": 0.09773,
+            "ramBytes": 759912106
+        },
+        "requests": {
+            "cpuCores": 0.883877,
+            "ramBytes": 458038209
+        },
+        "usage": {
+            "cpuCores": 0.05914,
+            "ramBytes": 51677170
+        },
+        "monthlySavings": 2.013632
+    },
+    {
+        "pod": "14:da:e1:35:5b:de",
+        "namespace": "wall",
+        "node": "70:0c:82:9f:86:60",
+        "clusterId": "kc-HappenFlow",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "set",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 52.227029,
+        "egressBytesPerSecond": 11.726638,
+        "allocation": {
+            "cpuCores": 0.574714,
+            "ramBytes": 214841606
+        },
+        "requests": {
+            "cpuCores": 0.186895,
+            "ramBytes": 859829437
+        },
+        "usage": {
+            "cpuCores": 0.009631,
+            "ramBytes": 48055374
+        },
+        "monthlySavings": 1.383655
+    },
+    {
+        "pod": "bc:8b:d7:03:2b:b1",
+        "namespace": "black",
+        "node": "98:65:e5:6c:82:97",
+        "clusterId": "kc-FullWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "think",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 106.450588,
+        "egressBytesPerSecond": 72.591519,
+        "allocation": {
+            "cpuCores": 0.815429,
+            "ramBytes": 354976656
+        },
+        "requests": {
+            "cpuCores": 0.100303,
+            "ramBytes": 440337329
+        },
+        "usage": {
+            "cpuCores": 0.052953,
+            "ramBytes": 83122552
+        },
+        "monthlySavings": 9.435201
+    },
+    {
+        "pod": "c2:c0:99:bf:f0:05",
+        "namespace": "dog",
+        "node": "fc:f5:76:ee:43:70",
+        "clusterId": "kc-FullWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "reflect",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 38.390117,
+        "egressBytesPerSecond": 137.42731,
+        "allocation": {
+            "cpuCores": 0.893149,
+            "ramBytes": 517386544
+        },
+        "requests": {
+            "cpuCores": 0.618409,
+            "ramBytes": 376117305
+        },
+        "usage": {
+            "cpuCores": 0.099525,
+            "ramBytes": 60346112
+        },
+        "monthlySavings": 2.534205
+    },
+    {
+        "pod": "be:09:ba:42:01:df",
+        "namespace": "capital",
+        "node": "dc:10:80:49:6e:68",
+        "clusterId": "kc-FullWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "rule",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 72.716256,
+        "egressBytesPerSecond": 0.434782,
+        "allocation": {
+            "cpuCores": 0.111083,
+            "ramBytes": 198998349
+        },
+        "requests": {
+            "cpuCores": 0.845742,
+            "ramBytes": 196734842
+        },
+        "usage": {
+            "cpuCores": 0.009802,
+            "ramBytes": 67922285
+        },
+        "monthlySavings": 9.778421
+    },
+    {
+        "pod": "20:8f:84:63:7e:11",
+        "namespace": "today",
+        "node": "98:22:35:29:f6:d6",
+        "clusterId": "kc-FullWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "woman",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 151.770063,
+        "egressBytesPerSecond": 88.852151,
+        "allocation": {
+            "cpuCores": 0.730112,
+            "ramBytes": 395050134
+        },
+        "requests": {
+            "cpuCores": 0.633658,
+            "ramBytes": 154546325
+        },
+        "usage": {
+            "cpuCores": 0.056077,
+            "ramBytes": 79469610
+        },
+        "monthlySavings": 0.019404
+    },
+    {
+        "pod": "ec:3c:53:24:4b:85",
+        "namespace": "region",
+        "node": "6e:4a:f5:8f:c6:34",
+        "clusterId": "kc-FullWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "cost",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 159.247106,
+        "egressBytesPerSecond": 38.48098,
+        "allocation": {
+            "cpuCores": 0.687591,
+            "ramBytes": 979299146
+        },
+        "requests": {
+            "cpuCores": 0.381048,
+            "ramBytes": 251907094
+        },
+        "usage": {
+            "cpuCores": 0.046542,
+            "ramBytes": 67300691
+        },
+        "monthlySavings": 5.121201
+    },
+    {
+        "pod": "16:2d:87:ff:5a:a0",
+        "namespace": "always",
+        "node": "04:0a:30:18:7a:32",
+        "clusterId": "kc-SupportConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "scientist",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 119.789467,
+        "egressBytesPerSecond": 36.037515,
+        "allocation": {
+            "cpuCores": 0.609677,
+            "ramBytes": 442955869
+        },
+        "requests": {
+            "cpuCores": 0.982102,
+            "ramBytes": 365440667
+        },
+        "usage": {
+            "cpuCores": 0.009389,
+            "ramBytes": 60756481
+        },
+        "monthlySavings": 4.549388
+    },
+    {
+        "pod": "2e:f1:1e:44:7c:94",
+        "namespace": "will",
+        "node": "26:22:0f:ce:03:c9",
+        "clusterId": "kc-SupportConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "practice",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 125.060529,
+        "egressBytesPerSecond": 145.613689,
+        "allocation": {
+            "cpuCores": 0.27472,
+            "ramBytes": 511585114
+        },
+        "requests": {
+            "cpuCores": 0.746799,
+            "ramBytes": 802991592
+        },
+        "usage": {
+            "cpuCores": 0.088165,
+            "ramBytes": 17230550
+        },
+        "monthlySavings": 7.083779
+    },
+    {
+        "pod": "16:8e:76:68:5f:20",
+        "namespace": "individual",
+        "node": "84:d2:2d:5b:69:7e",
+        "clusterId": "kc-SupportConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "season",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 186.122023,
+        "egressBytesPerSecond": 7.330917,
+        "allocation": {
+            "cpuCores": 0.282522,
+            "ramBytes": 563583052
+        },
+        "requests": {
+            "cpuCores": 0.469311,
+            "ramBytes": 700167971
+        },
+        "usage": {
+            "cpuCores": 0.007697,
+            "ramBytes": 49473109
+        },
+        "monthlySavings": 3.508952
+    },
+    {
+        "pod": "82:55:5b:0d:bc:17",
+        "namespace": "pick",
+        "node": "74:77:97:f2:95:77",
+        "clusterId": "kc-RealityPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "participant",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 86.025631,
+        "egressBytesPerSecond": 78.326686,
+        "allocation": {
+            "cpuCores": 0.402785,
+            "ramBytes": 447475070
+        },
+        "requests": {
+            "cpuCores": 0.488614,
+            "ramBytes": 701676993
+        },
+        "usage": {
+            "cpuCores": 0.075366,
+            "ramBytes": 34626360
+        },
+        "monthlySavings": 8.42121
+    },
+    {
+        "pod": "70:a3:5b:99:0c:ea",
+        "namespace": "ball",
+        "node": "e4:44:d9:94:18:9f",
+        "clusterId": "kc-RealityPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "material",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 188.753629,
+        "egressBytesPerSecond": 52.95297,
+        "allocation": {
+            "cpuCores": 0.703869,
+            "ramBytes": 555201835
+        },
+        "requests": {
+            "cpuCores": 0.559975,
+            "ramBytes": 118644686
+        },
+        "usage": {
+            "cpuCores": 0.047784,
+            "ramBytes": 75728686
+        },
+        "monthlySavings": 6.948487
+    },
+    {
+        "pod": "48:af:e2:9a:6f:f1",
+        "namespace": "himself",
+        "node": "ca:97:57:6d:8e:7e",
+        "clusterId": "kc-RealityPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "water",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 124.754133,
+        "egressBytesPerSecond": 127.897649,
+        "allocation": {
+            "cpuCores": 0.32011,
+            "ramBytes": 809324862
+        },
+        "requests": {
+            "cpuCores": 0.804697,
+            "ramBytes": 131613091
+        },
+        "usage": {
+            "cpuCores": 0.00757,
+            "ramBytes": 53301301
+        },
+        "monthlySavings": 4.43455
+    },
+    {
+        "pod": "ce:99:0e:92:c8:01",
+        "namespace": "political",
+        "node": "28:e4:9e:4e:e9:49",
+        "clusterId": "kc-RealityPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "real",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 57.015911,
+        "egressBytesPerSecond": 164.112235,
+        "allocation": {
+            "cpuCores": 0.219069,
+            "ramBytes": 952676513
+        },
+        "requests": {
+            "cpuCores": 0.118858,
+            "ramBytes": 793390876
+        },
+        "usage": {
+            "cpuCores": 0.093091,
+            "ramBytes": 84097141
+        },
+        "monthlySavings": 6.058593
+    },
+    {
+        "pod": "04:ef:b3:38:66:de",
+        "namespace": "if",
+        "node": "1a:5c:14:f2:30:1f",
+        "clusterId": "kc-RealityPlus",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "discussion",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 37.645258,
+        "egressBytesPerSecond": 62.463338,
+        "allocation": {
+            "cpuCores": 0.455322,
+            "ramBytes": 410763667
+        },
+        "requests": {
+            "cpuCores": 0.67807,
+            "ramBytes": 528168090
+        },
+        "usage": {
+            "cpuCores": 0.039839,
+            "ramBytes": 27866949
+        },
+        "monthlySavings": 1.356576
+    },
+    {
+        "pod": "72:e1:04:bd:fb:be",
+        "namespace": "near",
+        "node": "b0:03:89:50:20:f9",
+        "clusterId": "kc-CenturyWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "capital",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 41.424317,
+        "egressBytesPerSecond": 102.243359,
+        "allocation": {
+            "cpuCores": 0.534001,
+            "ramBytes": 845767914
+        },
+        "requests": {
+            "cpuCores": 0.251238,
+            "ramBytes": 270144679
+        },
+        "usage": {
+            "cpuCores": 0.045944,
+            "ramBytes": 40501668
+        },
+        "monthlySavings": 4.130057
+    },
+    {
+        "pod": "12:66:af:00:b1:4d",
+        "namespace": "magazine",
+        "node": "96:39:0a:d1:6e:c4",
+        "clusterId": "kc-CenturyWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "position",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 13.579332,
+        "egressBytesPerSecond": 27.408627,
+        "allocation": {
+            "cpuCores": 0.688439,
+            "ramBytes": 272221639
+        },
+        "requests": {
+            "cpuCores": 0.635121,
+            "ramBytes": 908553756
+        },
+        "usage": {
+            "cpuCores": 0.006751,
+            "ramBytes": 47253745
+        },
+        "monthlySavings": 8.224976
+    },
+    {
+        "pod": "74:b1:4c:d5:d8:e0",
+        "namespace": "respond",
+        "node": "14:8c:a5:0a:69:5a",
+        "clusterId": "kc-CenturyWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "ground",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 117.025792,
+        "egressBytesPerSecond": 196.815894,
+        "allocation": {
+            "cpuCores": 0.121383,
+            "ramBytes": 996101065
+        },
+        "requests": {
+            "cpuCores": 0.470184,
+            "ramBytes": 997823951
+        },
+        "usage": {
+            "cpuCores": 0.017552,
+            "ramBytes": 48862500
+        },
+        "monthlySavings": 8.171524
+    },
+    {
+        "pod": "54:dd:21:8c:83:1c",
+        "namespace": "exist",
+        "node": "b4:a4:81:89:52:a9",
+        "clusterId": "kc-CenturyWorks",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "remain",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 33.707636,
+        "egressBytesPerSecond": 102.186274,
+        "allocation": {
+            "cpuCores": 0.660731,
+            "ramBytes": 949388422
+        },
+        "requests": {
+            "cpuCores": 0.851284,
+            "ramBytes": 737865721
+        },
+        "usage": {
+            "cpuCores": 0.080068,
+            "ramBytes": 64090154
+        },
+        "monthlySavings": 6.727663
+    },
+    {
+        "pod": "00:54:16:28:08:21",
+        "namespace": "have",
+        "node": "12:07:88:bb:b6:b9",
+        "clusterId": "kc-PastConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "approach",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 17.378058,
+        "egressBytesPerSecond": 53.42475,
+        "allocation": {
+            "cpuCores": 0.534944,
+            "ramBytes": 320258455
+        },
+        "requests": {
+            "cpuCores": 0.856156,
+            "ramBytes": 957336298
+        },
+        "usage": {
+            "cpuCores": 0.006903,
+            "ramBytes": 73465817
+        },
+        "monthlySavings": 3.963832
+    },
+    {
+        "pod": "be:38:4d:18:58:73",
+        "namespace": "also",
+        "node": "3a:d1:bc:6b:21:5c",
+        "clusterId": "kc-PastConnect",
+        "clusterName": "",
+        "owners": [
+            {
+                "name": "share",
+                "kind": "deployment"
+            }
+        ],
+        "ingressBytesPerSecond": 141.772424,
+        "egressBytesPerSecond": 112.960199,
+        "allocation": {
+            "cpuCores": 0.131221,
+            "ramBytes": 251493656
+        },
+        "requests": {
+            "cpuCores": 0.119231,
+            "ramBytes": 275324500
+        },
+        "usage": {
+            "cpuCores": 0.058812,
+            "ramBytes": 39457769
+        },
+        "monthlySavings": 2.714307
+    }
+]
