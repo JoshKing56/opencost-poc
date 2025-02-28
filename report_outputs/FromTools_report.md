@@ -5,6 +5,8 @@
 The aim of this report is to show areas within the FromTools application which can use cost optimisations 
  TODO Add more stuff here
 
+## Total proposed savings for FromTools: $136.55342
+
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 
 - **Business Criticality**: high
@@ -16,14 +18,14 @@ The aim of this report is to show areas within the FromTools application which c
 - **Server ID**: eusdev22
 
 - **Environments**: 
-
 	 - dev
 	- qa
 	- prod
+
 ## Kubernetes Information
 - **Cluster ID**: kc-FromTools
 
-- **Namespace ID**: any
+- **Namespace ID**: ns-any
 
 - **Node ID**: e2:de:be:17:77:f6
 
@@ -34,7 +36,13 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
 - **Pod ID**: 00:41:35:08:fa:44
 - **Ingress**: 156.012756 Bytes/Sec
 - **Egress**: 34.000022 Bytes/Sec
-- **Ram**: 34.000022 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.541271 Bytes
+- **Requested RAM**: 553103647 Bytes
+- **Allocation CPU**: 0.115027 Bytes
+- **Allocation RAM**: 668765100 Bytes
+- **Usage CPU**: 0.042592 Bytes
+- **Usage RAM**: 83963872 Bytes
 
 
 
@@ -42,13 +50,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $7.363717**
+**Total Savings Per Pod: $73.63717**
 
 ### Pod 1
 - **Pod ID**: 60:ac:91:43:8d:60
 - **Ingress**: 158.99205 Bytes/Sec
 - **Egress**: 132.788373 Bytes/Sec
-- **Ram**: 132.788373 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.420001 Bytes
+- **Requested RAM**: 419794832 Bytes
+- **Allocation CPU**: 0.997058 Bytes
+- **Allocation RAM**: 875360123 Bytes
+- **Usage CPU**: 0.044102 Bytes
+- **Usage RAM**: 35053343 Bytes
 
 
 
@@ -56,13 +70,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $0.226405**
+**Total Savings Per Pod: $2.26405**
 
 ### Pod 2
 - **Pod ID**: 26:69:75:10:75:1e
 - **Ingress**: 163.175858 Bytes/Sec
 - **Egress**: 94.453172 Bytes/Sec
-- **Ram**: 94.453172 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.213056 Bytes
+- **Requested RAM**: 239065139 Bytes
+- **Allocation CPU**: 0.237103 Bytes
+- **Allocation RAM**: 457814436 Bytes
+- **Usage CPU**: 0.014985 Bytes
+- **Usage RAM**: 14038431 Bytes
 
 
 
@@ -70,7 +90,7 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $6.06522**
+**Total Savings Per Pod: $60.6522**
 
 
 ---

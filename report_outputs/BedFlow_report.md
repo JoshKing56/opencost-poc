@@ -5,6 +5,8 @@
 The aim of this report is to show areas within the BedFlow application which can use cost optimisations 
  TODO Add more stuff here
 
+## Total proposed savings for BedFlow: $161.76625
+
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 
 - **Business Criticality**: mid
@@ -16,14 +18,14 @@ The aim of this report is to show areas within the BedFlow application which can
 - **Server ID**: eusdev39
 
 - **Environments**: 
-
 	 - dev
 	- qa
 	- prod
+
 ## Kubernetes Information
 - **Cluster ID**: kc-BedFlow
 
-- **Namespace ID**: make
+- **Namespace ID**: ns-make
 
 - **Node ID**: 12:1c:bc:26:03:01
 
@@ -34,7 +36,13 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
 - **Pod ID**: bc:72:2f:90:ac:35
 - **Ingress**: 105.996939 Bytes/Sec
 - **Egress**: 55.345274 Bytes/Sec
-- **Ram**: 55.345274 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.51045 Bytes
+- **Requested RAM**: 309419601 Bytes
+- **Allocation CPU**: 0.467151 Bytes
+- **Allocation RAM**: 306148356 Bytes
+- **Usage CPU**: 0.097424 Bytes
+- **Usage RAM**: 43222277 Bytes
 
 
 
@@ -42,13 +50,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $8.59934**
+**Total Savings Per Pod: $85.9934**
 
 ### Pod 1
 - **Pod ID**: 06:64:e2:83:4d:a6
 - **Ingress**: 152.509431 Bytes/Sec
 - **Egress**: 121.646579 Bytes/Sec
-- **Ram**: 121.646579 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.040112 Bytes
+- **Requested RAM**: 700495668 Bytes
+- **Allocation CPU**: 0.038391 Bytes
+- **Allocation RAM**: 521804254 Bytes
+- **Usage CPU**: 0.023453 Bytes
+- **Usage RAM**: 95712537 Bytes
 
 
 
@@ -56,7 +70,7 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $7.577285**
+**Total Savings Per Pod: $75.77285**
 
 
 ---

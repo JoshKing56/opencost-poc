@@ -5,6 +5,8 @@
 The aim of this report is to show areas within the TeamCore application which can use cost optimisations 
  TODO Add more stuff here
 
+## Total proposed savings for TeamCore: $155.72794
+
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 
 - **Business Criticality**: low
@@ -16,14 +18,14 @@ The aim of this report is to show areas within the TeamCore application which ca
 - **Server ID**: eusdev12
 
 - **Environments**: 
-
 	 - dev
 	- qa
 	- prod
+
 ## Kubernetes Information
 - **Cluster ID**: kc-TeamCore
 
-- **Namespace ID**: expect
+- **Namespace ID**: ns-expect
 
 - **Node ID**: a6:59:46:1a:15:ff
 
@@ -34,7 +36,13 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
 - **Pod ID**: 02:53:25:ca:3c:05
 - **Ingress**: 136.277024 Bytes/Sec
 - **Egress**: 31.486647 Bytes/Sec
-- **Ram**: 31.486647 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.216073 Bytes
+- **Requested RAM**: 678925497 Bytes
+- **Allocation CPU**: 0.87617 Bytes
+- **Allocation RAM**: 398496852 Bytes
+- **Usage CPU**: 0.055804 Bytes
+- **Usage RAM**: 54435543 Bytes
 
 
 
@@ -42,13 +50,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $5.36325**
+**Total Savings Per Pod: $53.6325**
 
 ### Pod 1
 - **Pod ID**: 78:9f:d7:96:ed:af
 - **Ingress**: 187.959657 Bytes/Sec
 - **Egress**: 145.011751 Bytes/Sec
-- **Ram**: 145.011751 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.702183 Bytes
+- **Requested RAM**: 132395826 Bytes
+- **Allocation CPU**: 0.912609 Bytes
+- **Allocation RAM**: 819056015 Bytes
+- **Usage CPU**: 0.042991 Bytes
+- **Usage RAM**: 32221882 Bytes
 
 
 
@@ -56,13 +70,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $5.936619**
+**Total Savings Per Pod: $59.36619**
 
 ### Pod 2
 - **Pod ID**: ac:3e:e3:45:53:c5
 - **Ingress**: 21.599563 Bytes/Sec
 - **Egress**: 100.876842 Bytes/Sec
-- **Ram**: 100.876842 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.158483 Bytes
+- **Requested RAM**: 757482310 Bytes
+- **Allocation CPU**: 0.604004 Bytes
+- **Allocation RAM**: 232386853 Bytes
+- **Usage CPU**: 0.010902 Bytes
+- **Usage RAM**: 93237021 Bytes
 
 
 
@@ -70,13 +90,19 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $3.882716**
+**Total Savings Per Pod: $38.82716**
 
 ### Pod 3
 - **Pod ID**: 92:16:98:ad:50:2c
 - **Ingress**: 155.851334 Bytes/Sec
 - **Egress**: 168.448442 Bytes/Sec
-- **Ram**: 168.448442 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.988274 Bytes
+- **Requested RAM**: 631532346 Bytes
+- **Allocation CPU**: 0.29721 Bytes
+- **Allocation RAM**: 664576334 Bytes
+- **Usage CPU**: 0.010068 Bytes
+- **Usage RAM**: 89669132 Bytes
 
 
 
@@ -84,7 +110,7 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $0.390209**
+**Total Savings Per Pod: $3.90209**
 
 
 ---

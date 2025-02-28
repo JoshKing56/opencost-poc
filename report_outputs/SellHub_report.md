@@ -5,6 +5,8 @@
 The aim of this report is to show areas within the SellHub application which can use cost optimisations 
  TODO Add more stuff here
 
+## Total proposed savings for SellHub: $8.687190000000001
+
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 
 - **Business Criticality**: high
@@ -16,14 +18,14 @@ The aim of this report is to show areas within the SellHub application which can
 - **Server ID**: eusdev39
 
 - **Environments**: 
-
 	 - dev
 	- qa
 	- prod
+
 ## Kubernetes Information
 - **Cluster ID**: kc-SellHub
 
-- **Namespace ID**: many
+- **Namespace ID**: ns-many
 
 - **Node ID**: ba:b6:4b:69:85:02
 
@@ -34,7 +36,13 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
 - **Pod ID**: 56:bd:33:6b:3d:b9
 - **Ingress**: 2.085566 Bytes/Sec
 - **Egress**: 162.621955 Bytes/Sec
-- **Ram**: 162.621955 Bytes/Sec
+#### Pod Resources
+- **Requested CPU**: 0.98549 Bytes
+- **Requested RAM**: 136793341 Bytes
+- **Allocation CPU**: 0.608403 Bytes
+- **Allocation RAM**: 212585040 Bytes
+- **Usage CPU**: 0.030645 Bytes
+- **Usage RAM**: 76368457 Bytes
 
 
 
@@ -42,7 +50,7 @@ Pods that have not sent or received a meaningful rate of traffic over a given du
  TODO Add the rest of the fields above
 
 
-**TOTAL SAVINGS PER MONTH: $0.868719**
+**Total Savings Per Pod: $8.687190000000001**
 
 
 ---
