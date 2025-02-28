@@ -4,7 +4,7 @@ import json
  
 fake = Faker()
  
-def generate_fake_node(clusterid):
+def generate_demo_node(clusterid):
     return {
         "pod": fake.mac_address(),
         "namespace": fake.word(),
@@ -28,7 +28,7 @@ def generate_fake_node(clusterid):
         },
         "monthlySavings": round(random.uniform(0.01, 10.0), 6)
     }
-def generate_fake_client_data(app_name, clusterid):
+def generate_demo_client_data(app_name, clusterid):
     return {
         "app_name": app_name,
         "app_id": random.randint(1, 1000),
@@ -48,9 +48,9 @@ app_suffixes = ["Flow", "Hub", "Connect", "Link", "Core", "Plus", "Works", "Stor
 for _ in range(20):
     app_name = fake.word().capitalize() + random.choice(app_suffixes)
     clusterid = f"kc-{app_name}"
-    client_data.append(generate_fake_client_data(app_name, clusterid))
+    client_data.append(generate_demo_client_data(app_name, clusterid))
     for _ in range(random.randint(1, 5)):
-        nodes.append(generate_fake_node(clusterid))
+        nodes.append(generate_demo_node(clusterid))
 
 with open("client-data.json", 'w') as f:
     json.dump(client_data,  f)
