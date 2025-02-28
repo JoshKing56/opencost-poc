@@ -1,11 +1,8 @@
 # Kubernetes Cost Optimisation Report for DemocraticLink
 
-## Application Summary
-
-The aim of this report is to show areas within the DemocraticLink application which can use cost optimisations 
- TODO Add more stuff here
-
 ## Total proposed savings for DemocraticLink: $16.64696
+
+## Application Summary
 
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 

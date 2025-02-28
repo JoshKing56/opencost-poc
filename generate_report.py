@@ -4,10 +4,9 @@ import json
 def generate_markdown_report(application, kubecost_data):
     total_savings = 0
     report_prefix = f"# Kubernetes Cost Optimisation Report for {application['app_name']}\n\n"
-    report_prefix += f"## Application Summary\n\n"
-    report_prefix += f"The aim of this report is to show areas within the {application['app_name']} application which can use cost optimisations \n TODO Add more stuff here\n\n"
 
-    report = f"- **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.\n\n" 
+    report = f"## Application Summary\n\n"
+    report += f"- **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.\n\n" 
     report += f"- **Business Criticality**: {application['business_criticality']}\n\n"
     report += f"- **Business Owner**: {application['business_owner']}\n\n"
     report += f"- **Technical Owner**: {application['technical_owner']}\n\n"

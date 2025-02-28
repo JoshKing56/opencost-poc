@@ -1,11 +1,8 @@
 # Kubernetes Cost Optimisation Report for ChangeFlow
 
-## Application Summary
-
-The aim of this report is to show areas within the ChangeFlow application which can use cost optimisations 
- TODO Add more stuff here
-
 ## Total proposed savings for ChangeFlow: $210.12137
+
+## Application Summary
 
 - **Description**: Cloud-based enterprise management platform designed to streamline operations, enhance productivity, and foster collaboration across diverse business environments. This robust application integrates advanced tools for project management, resource allocation, workflow automation, and data analytics, providing real-time insights to support informed decision-making.
 
